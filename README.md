@@ -1,4 +1,4 @@
-# learning-nodes
+# L-nodejs
 
 it is a record of learning nodes
 
